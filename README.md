@@ -6,7 +6,7 @@ Repository ini berisi project **Data Mining & Visualization** mengenai analisis 
 
 ## Dataset
 
-Dataset yang digunakan adalah **Zomato Bangalore Restaurant Dataset**.
+Dataset yang digunakan adalah **Zomato Bangalore Restaurant Dataset**: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 Beberapa variabel yang digunakan dalam analisis antara lain:
 
